@@ -1,4 +1,4 @@
-# Amortized Optimal Transport from Sliced Potentials (NeuRIPS 2026)
+# Amortized Optimal Transport from Sliced Potentials (NeurIPS 2026)
 
 Official implementation for paper: **Amortized Optimal Transport from Sliced Potentials**.
 
